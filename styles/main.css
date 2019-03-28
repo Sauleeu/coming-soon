@@ -92,6 +92,21 @@ body {
   }
 }
 
+.fa-facebook{
+  color: blue;
+}
+
+.fa-google-plus{
+  color: red;
+}
+
+.fa-twitter{
+  color: #00acee;
+}
+
+.fa-instagram{
+  color: #E1306C;
+}
 /*
  * Cover
  */
