@@ -10,10 +10,10 @@ a:hover {
 
 /* Custom default button */
 .btn-default {
-  color: #fff;
+  color: blue;
   text-shadow: none;
   /* Prevent inheritence from `body` */
-  background-color: transparent;
+  background-color: yellow;
   border: 2px solid #fff;
   border-radius: 20px;
   padding: 0.5rem 2rem;

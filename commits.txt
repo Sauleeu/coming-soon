@@ -1,0 +1,17 @@
+commit ae56c858feacd28987f5e21051b366ed2ca23e2a
+Author: Saul <saulesteban0118@gmail.com>
+Date:   Thu Mar 28 15:50:55 2019 -0500
+
+    se establece color a las redes sociales
+
+commit 1d421932e6b28786c6bd1180b03be92b36935010
+Author: Saul <saulesteban0118@gmail.com>
+Date:   Thu Mar 28 15:32:59 2019 -0500
+
+    Se agrega nombre a las redes sociales
+
+commit db9c72a139074860ec957dc49498afe92b7d3362
+Author: Saul <saulesteban0118@gmail.com>
+Date:   Thu Mar 28 15:24:54 2019 -0500
+
+    iniciamos
