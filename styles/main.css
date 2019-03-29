@@ -17,9 +17,13 @@ a:hover {
   border: 2px solid #fff;
   border-radius: 20px;
   padding: 0.5rem 2rem;
+  transition: 0.3s;
 }
 
-.btn-default:hover,
+.btn-default:hover{
+  transform: scale(1.2);
+}
+
 .btn-default:focus {
   background-color: rgba(255, 255, 255, 0.3);
 }
